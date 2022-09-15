@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=DAF709&width=635&lines=Welcome+to+my+GitHub+profile!;I'm+on+the+path+to+become+a+FullStack+Dev.;Now+let+me+tell+you+one+or+two+things+about+me." alt="SVG" /></a>
 
-<img align="right" src=https://i.vgy.me/UTdcfk.gif title="I don't need coffee ☧">
+<img align="right" src=https://i.vgy.me/UTdcfk.gif title="I don't need coffee ☧" width=400px>
 🔭Lorem ipsum dolor sit amet,<br>
 da pacem domine in diebus nostris.<br>
 🧠 braaaaaaaaainz \n <br>
@@ -26,4 +26,4 @@ da pacem domine in diebus nostris.<br>
 ## Estatística:
 ![I actually thought of this before finding it, Mkay?](contribution-snake.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeapFree)
 
-go away now <script>:history.back();</script>
+go away now <script>history.back();</script>
