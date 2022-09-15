@@ -22,7 +22,6 @@
 <img src=https://fravia.net/images/Bogdanow_Belski_The_Classroom_Door_2.jpg title="looking for a clue" width=150px>
 
 🖥️ "The Computer can be used as a tool to liberate and protect people, rather than to control them." - Hal Finney <br>
-🖥️ "Tudo muda" Air Stotle <br>
 
 ## Contribution Statistics:
 ![I actually thought of this before finding it, Mkay?](contribution-snake.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeapFree)
