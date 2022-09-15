@@ -3,13 +3,13 @@
 </h3>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=DAF709&width=635&lines=Welcome+to+my+GitHub+profile!;I'm+on+the+path+to+become+a+FullStack+Dev.;Now+let+me+tell+you+one+or+two+things+about+me." alt="SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=DAF709&width=635&lines=Welcome+to+my+GitHub+profile!;I'm+on+the+path+to+become+a+FullStack+Dev.;Check+a+look;" alt="SVG" /></a>
 
 <img align="right" src=https://i.vgy.me/UTdcfk.gif title="I don't need coffee ☧" width=400px>
-👩‍💻Got into technology as soon as I got my hands on a mega-drive. <!-- yes I broke it --> <br>
+👩‍💻I got into technology as soon as I got my hands on a mega-drive. <!-- yes I broke it --> <br>
 🔭Lorem ipsum dolor sit amet, da pacem domine in diebus nostris.<br>
 🧠 I have a brain. <br>
-⚡ Classical literature, linguaphile, electronics, bit bashing, cryptography, tabletops and airsoft.<br>
+⚡ I enjoy classical literature, languages, electronics, bit bashing, cryptography, tabletops, SDRs and airsoft.<br>
 💬 Is this thing on?<br>
 <!-- 😄 Pronouns: It/do/be/like/that<br> -->
 🌹 Roses are red <br>
