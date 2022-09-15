@@ -26,7 +26,7 @@
 ## Contribution Statistics:
 ![I actually thought of this before finding it, Mkay?](contribution-snake.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeapFree)
 
-<a href=chrome://dino> away now </a>
+<a href=https://dinosaurgame.net/> away now </a>
 
 <!-- https://youtu.be/Fjp8nNKRiFs -->
 <!-- Do give credits though -->
