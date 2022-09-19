@@ -14,7 +14,6 @@
 🧠 I have a brain. <br>
 ⚡ I enjoy classical literature, linguistics, electronics, bit bashing, cryptography, tabletops, SDRs and airsoft.<br>
 💬 People say I have some boomer energy since I was 16, they're partially correct.<br>
-<!-- 😄 Pronouns: iframe/script/nodejs/mongodb/bitcoin<br> -->
 🌹 Roses are red <br>
 💙Violets are blue<br>
 ⏰Got late to class<br> <br>
@@ -28,4 +27,8 @@
 
 <!-- https://youtu.be/Fjp8nNKRiFs -->
 <!-- Do give credits though -->
+
+<!-- Typing SVG by: DenverCoder1 -->
+<!-- Contribution snake by: Platane -->
+<!-- Visitor badge by: hehuapei -->
 
