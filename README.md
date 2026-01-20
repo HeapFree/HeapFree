@@ -10,13 +10,6 @@
 <br>
 <p align="center">
 👩‍💻I got into technology as soon as I got my hands on a mega-drive. <!-- then I broke it --> <br>
-🔭Lorem ipsum dolor sit amet, da pacem domine in diebus nostris.<br>
-🧠 Truth-seeker. <br>
-⚡ I enjoy classical literature, linguistics, electronics, bit bashing, cryptography, tabletops, SDRs and airsoft.<br>
-💬 Feel free to contact me.<br>
-🌹 Roses are red <br>
-💙Violets are blue<br>
-⏰Got late to class<br> <br>
 🖥️ "The Computer can be used as a tool to liberate and protect people, rather than to control them." - Hal Finney <br>
 </p>
 
