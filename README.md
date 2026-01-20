@@ -20,22 +20,3 @@
 
 
 
-
-
-
-
-
-
-
-## Contribution Statistics:
-![I actually thought of this before finding it, Mkay?](contribution-snake.svg) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeapFree)
-<a href=https://dinosaurgame.net/> . </a>
-
-<!-- https://youtu.be/Fjp8nNKRiFs -->
-<!-- Do give credits though -->
-
-<!-- Typing SVG by: DenverCoder1 -->
-<!-- Contribution snake by: Platane -->
-<!-- Visitor badge by: hehuapei -->
-
